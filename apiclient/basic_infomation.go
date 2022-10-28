@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"example.com/my-go-practice/apiclient/config"
+	"github.com/hirotoni/itdashboard-webapiclient-go/apiclient/config"
 )
 
 type BasicInformationField string

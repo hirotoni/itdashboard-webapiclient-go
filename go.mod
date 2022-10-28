@@ -1,3 +1,3 @@
-module example.com/my-go-practice
+module github.com/hirotoni/itdashboard-webapiclient-go
 
 go 1.19

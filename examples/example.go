@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ac "example.com/my-go-practice/apiclient"
+	ac "github.com/hirotoni/itdashboard-webapiclient-go/apiclient"
 )
 
 func main() {
