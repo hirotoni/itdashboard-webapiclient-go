@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ac "github.com/hirotoni/itdashboard-webapiclient-go/apiclient"
+	ac "github.com/hirotoni/itdashboard-webapiclient-go"
 )
 
 func main() {

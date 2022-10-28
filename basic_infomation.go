@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hirotoni/itdashboard-webapiclient-go/apiclient/config"
+	"github.com/hirotoni/itdashboard-webapiclient-go/config"
 )
 
 type BasicInformationField string
